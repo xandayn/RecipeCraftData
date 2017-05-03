@@ -1,8 +1,14 @@
 [
 	{
+		"name": "17w18a",
+		"type": "snapshot",
+		"url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w18a/17w18a.jar",
+		"json_url": "https://raw.githubusercontent.com/xandayn/RecipeCraftData/master/default_json/17w18a.json"
+	},
+	{
 		"name": "17w17b",
 		"type": "snapshot",
-		"url": "https://launcher.mojang.com/mc/game/17w17b/client/37e3f7d47f6f528455bda16684ff00308f375b1f/client.jar",
+		"url": "https://s3.amazonaws.com/Minecraft.Download/versions/17w17b/17w17b.jar",
 		"json_url": "https://raw.githubusercontent.com/xandayn/RecipeCraftData/master/default_json/17w17b.json"
 	}
 ]
